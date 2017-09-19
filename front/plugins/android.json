@@ -1,0 +1,49 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        },
+        "de.appplant.cordova.plugin.local-notification": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.providerit.portapro"
+        }
+    }
+}

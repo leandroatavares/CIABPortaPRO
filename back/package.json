@@ -1,0 +1,24 @@
+{
+  "name": "projetociab",
+  "private": true,
+  "version": "0.0.1",
+  "description": "App base para Projeto do CIAB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "mobilidade",
+    "ciab"
+  ],
+  "author": "Andre Brilho",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.6",
+    "validator": "^7.0.0"
+  },
+  "devDependencies": {}
+}
